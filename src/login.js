@@ -23,3 +23,11 @@ const Login = () => {
 };
 
 export default Login;
+
+// This portion of the code creates a a component called Login
+// It is functional component that retrurns a division
+// with the class name login-form.
+// Inside the division there is the h3 element as required and displays Log In
+// then there is the two inpput feilds! username/password!
+// Then the export default statement is there so it can be imported and used
+// in other parts of the code :0
